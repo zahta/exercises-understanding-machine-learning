@@ -7,9 +7,11 @@
    <img  src=https://github.com/zahta/Exercises-Understanding-Machine-Learning/blob/main/Images/images.jpeg?raw=true />
      <br/>
     <br/>
+    </h1>
+    <h2>
     Zahra Taheri <br/>
     2020 <br/>
-    </h1></center>
+    </h2></center>
 </div>
 
 ## :books: Reference:
