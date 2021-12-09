@@ -17,4 +17,4 @@
 ## :books: References:
 
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6) by Shai Shalev-Shwartz and Shai Ben-David
-- [Solution manual of Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/exercises.html) by Alon Gonen.
+- [Solution Manual of Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/exercises.html) by Alon Gonen.
