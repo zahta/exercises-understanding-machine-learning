@@ -1,7 +1,7 @@
 
 <div align="center">
   <center><h1>Solutions to  <br/>
-    Understanding Machine Learning: <br/>
+    Understanding Machine Learning <br/>
     From Theory to Algorithms <br/>
     <br/>
    <img  src=https://github.com/zahta/Exercises-Understanding-Machine-Learning/blob/main/Images/images.jpeg?raw=true />
